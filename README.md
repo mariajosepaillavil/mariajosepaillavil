@@ -1,8 +1,29 @@
 <h1 align="center">Hi 👋, I'm María José Paillavil Trejos</h1>
 <h3 align="center">A passionate Full Stack developer from Chile</h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CF7F1&background=0C9CFF00&center=FALSO&vCenter=FALSO&repeat=verdadero&width=435&lines=Hi+everyone!+I'm+Cote+Paillat%2C+;a+Chilean+full+stack+developer%2C+lover+of+technology+and+innovation.;Delighted+to+share+content+with+you+%3A)" alt="Typing SVG" /></a>
+<p align="center">
+<a target="_faces" rel="initialBanner"
+href="https://i.gifer.com/"> <img src="https://i.gifer.com/7PC0.gif" 
+ width="300px" height="170px" data-canonical-src="src="https://i.gifer.com/7PC0.gif" " style="max-width: 100%;"></a> </p>
+ 
+<p align="center">
+  <a target="_faces" rel="initialBanner" href="https://i.gifer.com/">
+    <img src="https://i.gifer.com/7PC0.gif" width="300px" height="170px" data-canonical-src="https://i.gifer.com/7PC0.gif" style="max-width: 100%;">
+  </a>
+</p>
 
+
+
+<p align="center">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/793a3c97d028b3d54dd3dc63d9afa6ad1db4266bfe9674e027fc437fc0ae9dcb/68747470733a2f2f6170696c6772696d696e6e61726e69612e66696c65732e776f726470726573732e636f6d2f323031382f30392f6c6567616c6c792d626c6f6e64652d6c6170746f702d65313533363037383933313633352e6a7067"><img src="https://camo.githubusercontent.com/793a3c97d028b3d54dd3dc63d9afa6ad1db4266bfe9674e027fc437fc0ae9dcb/68747470733a2f2f6170696c6772696d696e6e61726e69612e66696c65732e776f726470726573732e636f6d2f323031382f30392f6c6567616c6c792d626c6f6e64652d6c6170746f702d65313533363037383933313633352e6a7067" width="300px" height="170px" data-canonical-src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" style="max-width: 100%;"></a> </p>
+                                         
+                                         
+  
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CF7F1&background=0C9CFF00&center=verdadero&vCenter=FALSO&repeat=verdadero&width=435&lines=Hi+everyone!+%3AD+I'm+Cote+Paillat%2C+;a+Chilean+Full+Stack+Developer%2C+;lover+of+technology+and+innovation.;Delighted+to+share+content+with+you!" alt="Typing SVG" /></a>
+</p>
+  
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mariajosepaillaviltrejos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariajosepaillaviltrejos/" height="30" width="40" /></a>
