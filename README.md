@@ -32,6 +32,6 @@ width="300px" height="170px" data-canonical-src="src="https://media.giphy.com/me
  <hr> </hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariajosepaillavil&show_icons=true&locale=en&layout=compact" alt="mariajosepaillavil" /></p>
-<hr></hr>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariajosepaillavil&show_icons=true&locale=en" alt="mariajosepaillavil" /></p>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mariajosepaillavil&show_icons=true&locale=en" alt="mariajosepaillavil" /></p>
 
