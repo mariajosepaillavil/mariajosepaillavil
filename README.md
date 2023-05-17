@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm María José Paillavil Trejos</h1>
 <h3 align="center">A passionate Full Stack developer from Chile</h3>
 
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CF7F1&background=0C9CFF00&center=FALSO&vCenter=FALSO&repeat=verdadero&width=435&lines=Hi+everyone!+I'm+Cote+Paillat%2C+;a+Chilean+full+stack+developer%2C+lover+of+technology+and+innovation.;Delighted+to+share+content+with+you+%3A)" alt="Typing SVG" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
