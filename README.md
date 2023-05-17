@@ -18,7 +18,7 @@ width="300px" height="170px" data-canonical-src="src="https://media.giphy.com/me
 <!--Para insertar Gif -->
 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/4knozU8q9AXvpod9qy/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/4knozU8q9AXvpod9qy/giphy.gif" width="90%"/>
  
   
 <h3 align="left">Connect with me:</h3>
@@ -32,6 +32,6 @@ width="300px" height="170px" data-canonical-src="src="https://media.giphy.com/me
  <hr> </hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariajosepaillavil&show_icons=true&locale=en&layout=compact" alt="mariajosepaillavil" /></p>
-
+<hr></hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariajosepaillavil&show_icons=true&locale=en" alt="mariajosepaillavil" /></p>
 
