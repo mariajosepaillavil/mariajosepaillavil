@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm María José Paillavil Trejos</h1>
 <h3 align="center">A passionate Full Stack developer from Chile</h3>
 
+<img src="https://camo.githubusercontent.com/faf784dbd00345b30cbc987b4a5f7d98d228c98df0edf1a0ffffa291addc2330/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f636f6c6f723d4637324546332673697a653d33352663656e7465723d74727565267643656e7465723d747275652677696474683d31303030266c696e65733d48656c6c6f2c2b4d792b4e616d652b69732b5465726573612b426574746f6e693b49276d2b32382b79656172732b6f6c643b492b46756c6c2b537461636b2b446576656c6f7065723b42652b57656c636f6d65212b3a253239" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com/?color=F72EF3&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Hello,+My+Name+is+María+José;I'm+27+years+old;I+Full+Stack+Developer;Be+Welcome!+:%29" style="max-width: 100%;">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mariajosepaillaviltrejos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariajosepaillaviltrejos/" height="30" width="40" /></a>
