@@ -18,7 +18,7 @@ width="300px" height="170px" data-canonical-src="src="https://media.giphy.com/me
 <!--Para insertar Gif -->
 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/4knozU8q9AXvpod9qy/giphy.gif" width="100%"/>
+<img src="https://media.giphy.com/media/4knozU8q9AXvpod9qy/giphy.gif" width="200"/>
  
   
 <h3 align="left">Connect with me:</h3>
